@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-TOROID_INFERENCE_ENGINE",
+  "name": "THE TOROID INFERENCE ENGINE",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦THE TOROID INFERENCE ENGINE:toroid-inference-engine:91ac3f⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "91ac3fadf5a1d1124da27a15600a24ac1771758baafa7de4e7f6f328e2780d64",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
